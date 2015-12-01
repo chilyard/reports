@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
 
-print "hello world\n"
+print "hello github\n"
